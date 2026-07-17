@@ -9,7 +9,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 # ==========================================
 # 🔑 METS TON NOUVEAU TOKEN ICI (sans guillemets)
 # ==========================================
-TOKEN = 8127363800:AAHOaSWjmbJG5Yy7AoFTBybONoaiZX-nXYk
+TOKEN = "8127363800:AAHOaSWjmbJG5Yy7AoFTBybONoaiZX-nXYk"
 
 # ==========================================
 # STATS & DONNÉES
